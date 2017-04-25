@@ -1,0 +1,1 @@
+wsimport -keep -verbose -httpproxy:user:password@proxy:port http://some.com?wsdl
