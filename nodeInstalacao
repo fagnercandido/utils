@@ -1,0 +1,3 @@
+comando para instalar o node direto do binário
+
+sudo tar --strip-components 1 -xJf node-v6.10.3-linux-x64.tar.xz
